@@ -1,4 +1,0 @@
-User-agent: *
-Allow: /
-
-Sitemap: https://nutriota-supplements-y7k8.bolt.host/sitemap.xml
