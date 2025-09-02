@@ -1,0 +1,24 @@
+{
+  "title": "Products",
+  "categories": "Categories",
+  "allProducts": "All Products",
+  "vitamins": "Vitamins",
+  "supplements": "Supplements",
+  "herbalSupplements": "Herbal Supplements",
+  "showingAll": "Showing all {{count}} products",
+  "showingCategory": "Showing {{count}} products in {{category}}",
+  "noProducts": "No products found",
+  "noProductsDesc": "Try selecting a different category.",
+  "bestSeller": "Best Seller",
+  "ratings": "ratings",
+  "buyOnAmazon": "Buy on Amazon",
+  "chatbot": {
+    "title": "Nutriota Assistant",
+    "subtitle": "How can I help you today?",
+    "footer": "Nutriota Support",
+    "getStarted": "Get Started",
+    "inputPlaceholder": "Type your message here...",
+    "initialMessage": "Hello! I'm AI Nutriota's health assistant. My purpose is to help you find the best products for your specific needs. To get started, could you tell me what you're looking for or share any health concerns you have?",
+    "bubbleMessage": "Hi there! I can help you find the right product"
+  }
+}

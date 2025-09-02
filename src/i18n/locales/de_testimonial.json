@@ -1,0 +1,65 @@
+{
+  "title": "Was Kunden sagen",
+  "testimonials": [
+    {
+      "name": "volker-bln 9",
+      "gender": "male",
+      "title": "Sehr empfehlenswertes Produkt",
+      "quote": "Qualitätsprodukt und nicht überteuert, regelmäßig eingenommen. Hilft es, den Diabeteswert etwas zu senken? Ich war zunächst skeptisch, wurde aber nach drei Monaten eines Besseren belehrt."
+    },
+    {
+      "name": "M van den Berg",
+      "gender": "male",
+      "title": "Meiner Meinung nach ein gutes Produkt.",
+      "quote": "Ich bin kein Spezialist, aber ich habe das Produkt gekauft, um zu sehen, wie es bei meiner Tochter mit Epilepsie wirkt. Ich beobachte sie täglich und stelle fest, dass sie seit der Einnahme von 1 Kapsel pro Tag seit einigen Tagen keinen epileptischen Anfall mehr hatte, obwohl sie regelmäßig Anfälle hatte."
+    },
+    {
+      "name": "H.G.",
+      "gender": "female",
+      "title": "Sehr effektiv",
+      "quote": "Wir haben diese Vitamine bereits zum zweiten Mal gekauft. Sie verbessern die Durchblutung und das Wohlbefinden steigt ebenfalls. Wir können es absolut empfehlen. Das Preis-Leistungs-Verhältnis stimmt, der Versand war sofort. Vielen Dank!"
+    },
+    {
+      "name": "roteblume",
+      "gender": "female",
+      "title": "Vit.B1",
+      "quote": "Lieferung pünktlich. Ich nehme Vit.B1 mit 250 mg Inhalt/Kapsel, um mit sensorischen Störungen an den Fingerspitzen umzugehen. Zusammen mit physiotherapeutischen Übungen scheint es zu wirken. Die Kapseln sind leicht zu schlucken, die Verpackung ist eine dunkelbraune Plastikflasche, notwendig, da Vit B1 empfindlich gegenüber Licht/Sonnenstrahlung ist."
+    },
+    {
+      "name": "Amazon Kunde",
+      "gender": "male",
+      "title": "Hausmittel",
+      "quote": "Finde es ist ein gutes Produkt. Natur ist besser als synthetische Produkte (Medikamente) 🤓🤓🤓🤓🤓🤓🤓"
+    },
+    {
+      "name": "Gigi",
+      "gender": "female",
+      "title": "Gutes Preis-Leistungs-Verhältnis",
+      "quote": "Ich kann nicht viel über die Langzeitwirkung sagen, aber die Größe und Dosierung sind großartig."
+    },
+    {
+      "name": "Elke",
+      "gender": "female",
+      "title": "Absolut richtig jetzt im Herbst!",
+      "quote": "Besonders jetzt in der kalten Jahreszeit schwöre ich darauf. Wenn ich anfange, mich leise im Hals zu kratzen oder das Gefühl habe, krank zu werden, nehme ich diese Pillen und alles wird wieder gut."
+    },
+    {
+      "name": "Amazon Kunde",
+      "gender": "male",
+      "title": "Top Preis-Leistung 👍",
+      "quote": "Ich kann noch nicht viel sagen, da ich diese Echinacea-Kapseln erst letzte Woche erhalten habe, aber gestern Abend hatte ich brennende Augen und eine laufende Nase. Es ist das erste Anzeichen, dass ich etwas erwischt habe. Sofort 1 Tablette eingenommen. Gut geschlafen und bisher keine weiteren Symptome. Leider habe ich allgemein ein sehr schwaches Immunsystem und war heute Morgen wirklich überrascht, dass es sofort gewirkt hat..."
+    },
+    {
+      "name": "Alexander",
+      "gender": "male",
+      "title": "Funktioniert tatsächlich",
+      "quote": "Ich habe nach einer günstigen Alternative zu liposomalem Silizium gesucht und bin sehr zufrieden. Das Produkt funktioniert tatsächlich. Nach sporadischer Einnahme von weniger als 2 Wochen sind meine Nägel wieder stark und elastisch, lang gewachsen und splittern nicht mehr. (Bonus... überraschenderweise wachsen auch die Wimpern)"
+    },
+    {
+      "name": "Hannelore Koppenburg",
+      "gender": "female",
+      "title": "Schnelle Lieferung",
+      "quote": "Sie helfen mir gut. War zunächst skeptisch. Eine Person fand das hilfreich."
+    }
+  ]
+}

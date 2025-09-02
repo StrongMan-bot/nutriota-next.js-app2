@@ -1,0 +1,22 @@
+{
+  "title": "Learn & News",
+  "subtitle": "Discover practical wellness insights and stay updated with the latest in nutrition science",
+  "readMore": "Read More",
+  "articles": [
+    {
+      "title": "Your Energy is Vanishing and You Don't Even Know Why: The Hidden B-Vitamin Crisis",
+      "snippet": "Are you tired all the time? Brain fog hitting you like a truck? Discover the hidden B-vitamin crisis that's draining your energy and how to fix it.",
+      "category": "Energy & Wellness"
+    },
+    {
+      "title": "The Underground Secret Every Elite Athlete Knows (But Won't Tell You)",
+      "snippet": "While you're struggling with slow recovery and plateaued gains, the pros have been using this simple 3-ingredient formula to unlock their genetic potential.",
+      "category": "Performance"
+    },
+    {
+      "title": "The Age-Reversing Molecule Your Doctor Isn't Telling You About",
+      "snippet": "Discover the powerful anti-aging benefits of Alpha Lipoic Acid (ALA) - the universal antioxidant that works at the cellular level.",
+      "category": "Anti-Aging"
+    }
+  ]
+}

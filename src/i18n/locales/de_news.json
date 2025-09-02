@@ -1,0 +1,45 @@
+{
+  "title": "Aktuelle Gesundheitsnachrichten & Updates",
+  "subtitle": "Bleiben Sie auf dem Laufenden mit den neuesten Wellness-Tipps, Gesundheitsentdeckungen und einfachen Möglichkeiten, sich jeden Tag am besten zu fühlen",
+  "readFullStory": "Ganze Geschichte lesen",
+  "backToNews": "Zurück zur Hauptnachrichtenseite",
+  "discoverMore": "Entdecken Sie weitere Gesundheitstipps und Wellness-Artikel",
+  "articles": {
+    "article1": {
+      "title": "Ihre Energie verschwindet und Sie wissen nicht einmal warum: Die versteckte B-Vitamin-Krise",
+      "description": "Sind Sie ständig müde? Gehirnnebel trifft Sie wie ein Laster? Ihr Körper könnte um Hilfe schreien. Entdecken Sie die versteckte B-Vitamin-Krise, die Ihre Energie entzieht und wie Sie sie beheben können.",
+      "category": "Energie & Wellness",
+      "date": "15. Dezember 2024"
+    },
+    "article2": {
+      "title": "Das unterirdische Geheimnis, das jeder Elite-Athlet kennt (aber Ihnen nicht erzählen wird)",
+      "description": "Während Sie mit langsamer Erholung und stagnierenden Fortschritten kämpfen, verwenden die Profis diese einfache 3-Zutaten-Formel, um ihr genetisches Potenzial zu entfesseln.",
+      "category": "Leistung",
+      "date": "12. Dezember 2024"
+    },
+    "article3": {
+      "title": "Das revolutionäre Anti-Aging-Molekül, von dem Ihr Arzt nicht spricht",
+      "description": "Entdecken Sie die kraftvollen Anti-Aging-Vorteile von Alpha-Liponsäure (ALA) - dem universellen Antioxidans, das auf zellulärer Ebene wirkt, um die Alterung von innen heraus zu verlangsamen.",
+      "category": "Anti-Aging",
+      "date": "15. Januar 2025"
+    },
+    "article4": {
+      "title": "Magnesium: Das Super-Mineral, das die meisten Menschen nicht ausreichend bekommen",
+      "description": "Die Hälfte aller Menschen bekommt nicht genug Magnesium! Dieses wichtige Mineral hilft Ihnen, besser zu schlafen, hält Ihre Muskeln in Funktion und gibt Ihnen mehr Energie. Finden Sie heraus, ob Sie mehr Magnesium benötigen.",
+      "category": "Ernährungsgrundlagen",
+      "date": "28. Dezember 2024"
+    },
+    "article5": {
+      "title": "Warum Vitamin B1 (Thiamin) essentiell für den Energiestoffwechsel ist",
+      "description": "Das Energie-Vitamin, über das niemand spricht (aber sollte!) Fühlen Sie sich mittags wie ausgelaugt? Bevor Sie nach dem nächsten Kaffee greifen, sprechen wir über das Vitamin, das Ihr Energie-Spiel für immer verändern könnte: Vitamin B1, auch bekannt als Thiamin.",
+      "category": "Gesundheitsforschung",
+      "date": "02. September 2025"
+    },
+    "article6": {
+      "title": "Vitamin B6: Das \"Stimmungs-Vitamin\"",
+      "description": "Das Glücks-Vitamin, das sich versteckt. Was wäre, wenn es ein Vitamin gäbe, das direkt kontrolliert, wie glücklich, ruhig und ausgeglichen Sie sich jeden Tag fühlen? Lernen Sie Vitamin B6 kennen—den unbesungenen Helden Ihres geistigen Wohlbefindens.",
+      "category": "Geistige Gesundheit",
+      "date": "15. Juni 2025"
+    }
+  }
+}

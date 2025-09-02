@@ -1,0 +1,24 @@
+{
+  "title": "Produkte",
+  "categories": "Kategorien",
+  "allProducts": "Alle Produkte",
+  "vitamins": "Vitamine",
+  "supplements": "Nahrungsergänzungsmittel",
+  "herbalSupplements": "Pflanzliche Ergänzungsmittel",
+  "showingAll": "Zeige alle {{count}} Produkte",
+  "showingCategory": "Zeige {{count}} Produkte in {{category}}",
+  "noProducts": "Keine Produkte gefunden",
+  "noProductsDesc": "Versuchen Sie, eine andere Kategorie auszuwählen.",
+  "bestSeller": "Bestseller",
+  "ratings": "Bewertungen",
+  "buyOnAmazon": "Bei Amazon kaufen",
+  "chatbot": {
+    "title": "Nutriota Assistent",
+    "subtitle": "Wie kann ich Ihnen heute helfen?",
+    "footer": "Nutriota Support",
+    "getStarted": "Loslegen",
+    "inputPlaceholder": "Geben Sie hier Ihre Nachricht ein...",
+    "initialMessage": "Hallo! Ich bin der KI-Gesundheitsassistent von Nutriota. Mein Ziel ist es, Ihnen zu helfen, die besten Produkte für Ihre spezifischen Bedürfnisse zu finden. Um zu beginnen, könnten Sie mir sagen, wonach Sie suchen oder welche gesundheitlichen Bedenken Sie haben?",
+    "bubbleMessage": "Hallo! Ich kann Ihnen helfen, das richtige Produkt zu finden"
+  }
+}

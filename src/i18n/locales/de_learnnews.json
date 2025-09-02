@@ -1,0 +1,22 @@
+{
+  "title": "Lernen & Neuigkeiten",
+  "subtitle": "Entdecken Sie praktische Wellness-Einblicke und bleiben Sie auf dem neuesten Stand der Ernährungswissenschaft",
+  "readMore": "Weiterlesen",
+  "articles": [
+    {
+      "title": "Ihre Energie verschwindet und Sie wissen nicht einmal warum: Die versteckte B-Vitamin-Krise",
+      "snippet": "Sind Sie ständig müde? Gehirnnebel trifft Sie wie ein Laster? Entdecken Sie die versteckte B-Vitamin-Krise, die Ihre Energie entzieht und wie Sie sie beheben können.",
+      "category": "Energie & Wellness"
+    },
+    {
+      "title": "Das unterirdische Geheimnis, das jeder Elite-Athlet kennt (aber Ihnen nicht erzählen wird)",
+      "snippet": "Während Sie mit langsamer Erholung und stagnierenden Fortschritten kämpfen, verwenden die Profis diese einfache 3-Zutaten-Formel, um ihr genetisches Potenzial zu entfesseln.",
+      "category": "Leistung"
+    },
+    {
+      "title": "Das revolutionäre Anti-Aging-Molekül, von dem Ihr Arzt nicht spricht",
+      "snippet": "Entdecken Sie die kraftvollen Anti-Aging-Vorteile von Alpha-Liponsäure (ALA) - dem universellen Antioxidans, das auf zellulärer Ebene wirkt.",
+      "category": "Anti-Aging"
+    }
+  ]
+}

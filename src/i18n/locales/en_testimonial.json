@@ -1,0 +1,65 @@
+{
+  "title": "What People Are Saying",
+  "testimonials": [
+    {
+      "name": "volker-bln 9",
+      "gender": "male",
+      "title": "Highly recommended product",
+      "quote": "Quality product and not overpriced taken regularly. Does it help to lower diabetes levels somewhat? I was skeptical at first, but was proven wrong after three months."
+    },
+    {
+      "name": "M van den Berg",
+      "gender": "male",
+      "title": "In my opinion, a good product.",
+      "quote": "I am not a specialist but I purchased the product to see how it works for my daughter with epilepsy, I observe her every day and I notice that since she has received 1 capsule a day, she has not had an epileptic seizure for a few days, even though she has had a regular seizure."
+    },
+    {
+      "name": "H.G.",
+      "gender": "female",
+      "title": "Very effective",
+      "quote": "We have already bought these vitamins for the second time. They improve blood circulation, and well-being is also improved. We can absolutely recommend it. The price-performance ratio is right, shipping was immediate. Thank you so much!"
+    },
+    {
+      "name": "roteblume",
+      "gender": "female",
+      "title": "Vit.B1",
+      "quote": "Delivery on time. I take Vit.B1 with 250 mg contents/capsule to cope with sensory disorders on the tips of my fingers. Together with physical therapy exercises, it seems to be working. The capsules are easy to swallow, the container is a dark brown plastic bottle, necessary as Vit B1 is sensitive to light/solar radiation."
+    },
+    {
+      "name": "Amazon Kunde",
+      "gender": "male",
+      "title": "Home remedy",
+      "quote": "Finding is a good product. Nature is better than synthetic products (medicines) 🤓🤓🤓🤓🤓🤓🤓"
+    },
+    {
+      "name": "Gigi",
+      "gender": "female",
+      "title": "Good value for money",
+      "quote": "I can't say much about the long-term effect, but the size and dosage are great."
+    },
+    {
+      "name": "Elke",
+      "gender": "female",
+      "title": "Absolutely right now in autumn!",
+      "quote": "Especially now during the cold season, I swear by it. When I start to scratch my throat quietly or feel like I'm getting sick, I take these pills and everything will be all right again."
+    },
+    {
+      "name": "Amazon Kunde",
+      "gender": "male",
+      "title": "Top price/performance 👍",
+      "quote": "I can't say much yet because I just received these Echinacea capsules last week, but last night I had burning eyes and runny nose. It's the first sign that I've caught something. Taken 1 tablet immediately. Slept well and no further symptoms yet. Unfortunately I have a very poor immune system in general and was really surprised this morning that there was immediate effect..."
+    },
+    {
+      "name": "Alexander",
+      "gender": "male",
+      "title": "Actually works",
+      "quote": "I've been looking for a cheap alternative to liposomal silicon and am very satisfied. The product does indeed work. After taking them sporadically for less than 2 weeks, my nails are strong and elastic again, have grown long and do not split anymore. (Bonus... surprisingly, the lashes also grow)"
+    },
+    {
+      "name": "Hannelore Koppenburg",
+      "gender": "female",
+      "title": "Quick delivery",
+      "quote": "They help me well. Was skeptical at first. One person found this helpful."
+    }
+  ]
+}

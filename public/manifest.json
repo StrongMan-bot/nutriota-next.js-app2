@@ -1,0 +1,26 @@
+{
+  "short_name": "Nutriota",
+  "name": "Nutriota - Daily Wellness, Simplified",
+  "description": "Clean, transparent supplements designed for modern lifestyles. Your daily wellness, simplified.",
+  "icons": [
+    {
+      "src": "/images/nutriota.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/images/nutriota.png", 
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ],
+  "start_url": "/",
+  "display": "standalone",
+  "theme_color": "#0089CF",
+  "background_color": "#ffffff",
+  "orientation": "portrait-primary",
+  "scope": "/",
+  "lang": "de",
+  "dir": "ltr",
+  "categories": ["health", "lifestyle", "wellness"]
+}

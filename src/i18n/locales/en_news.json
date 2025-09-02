@@ -1,0 +1,45 @@
+{
+  "title": "Latest Health News & Updates",
+  "subtitle": "Stay up-to-date with the newest wellness tips, health discoveries, and simple ways to feel your best every day",
+  "readFullStory": "Read Full Story",
+  "backToNews": "Back to Main News Page",
+  "discoverMore": "Discover more health tips and wellness articles",
+  "articles": {
+    "article1": {
+      "title": "Your Energy is Vanishing and You Don't Even Know Why: The Hidden B-Vitamin Crisis",
+      "description": "Are you tired all the time? Brain fog hitting you like a truck? Your body might be screaming for help. Discover the hidden B-vitamin crisis that's draining your energy and how to fix it.",
+      "category": "Energy & Wellness",
+      "date": "December 15, 2024"
+    },
+    "article2": {
+      "title": "The Underground Secret Every Elite Athlete Knows (But Won't Tell You)",
+      "description": "While you're struggling with slow recovery and plateaued gains, the pros have been using this simple 3-ingredient formula to unlock their genetic potential.",
+      "category": "Performance",
+      "date": "December 12, 2024"
+    },
+    "article3": {
+      "title": "The Age-Reversing Molecule Your Doctor Isn't Telling You About",
+      "description": "Discover the powerful anti-aging benefits of Alpha Lipoic Acid (ALA) - the universal antioxidant that works at the cellular level to slow down aging from the inside out.",
+      "category": "Anti-Aging",
+      "date": "January 15, 2025"
+    },
+    "article4": {
+      "title": "Magnesium: The Super Mineral Most People Don't Get Enough Of",
+      "description": "Half of all people don't get enough magnesium! This important mineral helps you sleep better, keeps your muscles working, and gives you more energy. Find out if you need more magnesium.",
+      "category": "Nutrition Basics",
+      "date": "December 28, 2024"
+    },
+    "article5": {
+      "title": "Why Vitamin B1 (Thiamine) is Essential for Energy Metabolism",
+      "description": "The Energy Vitamin Nobody Talks About (But Should!) Feeling like you're running on empty by noon? Before you reach for another coffee, let's talk about the vitamin that could change your energy game forever: Vitamin B1, also known as thiamine.",
+      "category": "Health Research",
+      "date": "September 02, 2025"
+    },
+    "article6": {
+      "title": "Vitamin B6: The \"Mood Vitamin\"",
+      "description": "The Happiness Vitamin That's Hiding in Plain Sight. What if there's a vitamin that directly controls how happy, calm, and balanced you feel every day? Meet Vitamin B6—the unsung hero of your mental wellness.",
+      "category": "Mental Wellness",
+      "date": "June 15, 2025"
+    }
+  }
+}
